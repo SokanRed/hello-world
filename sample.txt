@@ -1,2 +1,6 @@
 Hello World!
+<<<<<<< HEAD
 Team is doing great job!
+=======
+We are working together
+>>>>>>> 1150d79b3d1ae8a4512e7e14c9a6a02c792d30d3
